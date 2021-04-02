@@ -14,7 +14,9 @@ A correlation analysis indicated that 'cont_9' and 'cont_10' variables were stro
 
 The training set consists of 75% of the dataframe rows, the validation set of the 15% and the test set of the 10% of the remaining rows.
 
+The number of trees in the forest is 300. For the calculation of the accuracy, the mean absolute percentage error (MAPE) is used.
 
+The predictive accuracy of the model is 92.27 %. For the model the most important feature is variable 'cont_9' and the least important ones are the categorical (cat_7,cat_8). 
 
 
 
