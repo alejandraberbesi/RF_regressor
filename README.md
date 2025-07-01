@@ -1,4 +1,4 @@
-Regression Modeling Pipeline (2021)
+**Regression Modeling Pipeline (2021)**
 
 This project showcases a data preprocessing pipeline for a regression task. 
 
